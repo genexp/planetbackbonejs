@@ -1,0 +1,20 @@
+[
+  {
+    "title": "BackboneFu",
+    "feed": "http://backbonefu.com/feed/",
+    "author": "Cedric Dugas",
+    "link": "http://backbonefu.com"
+  },
+  {
+    "title": "isaac",
+    "feed": "http://blog.izs.me/rss",
+    "author": "Isaac Schlueter",
+    "link": "http://blog.izs.me"
+  },
+  {
+    "title": "nodejitsu",
+    "feed": "http://blog.nodejitsu.com/feed.xml",
+    "author": "Ninjas",
+    "link": "http://blog.nodejitsu.com"
+  }
+]
